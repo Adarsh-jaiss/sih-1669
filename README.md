@@ -1,9 +1,9 @@
-# SIH Project: 
+# SIH Project: 1669 
 
-### ID: sih-1669
-#### Name: Transformo Docs Application - Empowering Machine-Readable Document Management System.
-### Organization: Ministry of Electronics and Information Technology
-#### Theme: Smart Automation
+- ID: sih-1669
+- Name: Transformo Docs Application - Empowering Machine-Readable Document Management System.
+- Organization: Ministry of Electronics and Information Technology
+- Theme: Smart Automation
 
 This project is an MVP (Minimum Viable Product)  that converts PDF files into text files. It consists of a frontend application hosted on Vercel and a backend service written in Go.
 
